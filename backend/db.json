@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Caneta BIC Azul",
+      "price": "2.00"
     },
     {
       "id": 2,
@@ -19,11 +19,6 @@
       "name": "Produto de Teste",
       "price": 125.98,
       "id": 4
-    },
-    {
-      "name": "Produto de Teste",
-      "price": 125.98,
-      "id": 5
     }
   ]
 }
